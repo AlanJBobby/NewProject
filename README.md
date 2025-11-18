@@ -1,3 +1,3 @@
 # NewProject
-Testing out GitHub
+Github First Project
 This is my Github. Hello!
