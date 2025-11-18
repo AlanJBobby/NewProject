@@ -1,3 +1,4 @@
 # NewProject
-Github First Project
+Github First Project.
+
 This is my Github. Hello!
